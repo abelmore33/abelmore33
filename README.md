@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [node-api2-project](https://github.com/abelmore33/node-api2-project)
 
-- 🌱 I’m currently learning **Redux,React,SQL,**
+- 🌱 I’m currently learning **Redux,React,SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abelmore33](https://github.com/abelmore33)
 
